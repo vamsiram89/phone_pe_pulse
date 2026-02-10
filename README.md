@@ -6,11 +6,16 @@ Python + Pandas (for JSON extraction and cleaning)
 SQLite (for structured data storage)
 Power BI (for dashboarding)
 TopoJSON (for custom Indian state maps)
+
+
+
 📁 Dashboard Pages
+
 🏠 Home Page – KPI cards, buttons, overview
 📈 Transactions – State-wise and type-wise analysis
 👤 Users – Registered users, app opens
 🛡 Insurance – Count and trends
+
 🔗 Features
 Fully interactive slicers (year, quarter, state)
 Custom Shape Map with TopoJSON
